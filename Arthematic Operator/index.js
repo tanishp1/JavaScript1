@@ -9,3 +9,11 @@
 // const c = 25;
 // f = (c * 9/5) + 32;
 // console.log(`the fahrent score is ${f}`)
+
+// let a = 10;
+// let b = 20;
+// let sum;
+
+// sum = a + b;
+// console.log(sum)
+
